@@ -1,11 +1,27 @@
-## Hello fellow nerds.
-These are my ~~secret~~ and ~~stupid~~ repositories....  
-I'm a 14-year-old kid who wants to code :)  
-Yes, that's all, thanks for reading those useless words.  
+## Hello strange guys 👋🏻
+I'm Nguyen Thanh Quang, a secondary school student. I'm very bad at coding, especially C++ :(  
+That's all, have a good day :D
 ***
 [![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&theme=tokyonight "GitHub stats")](#)
 ***
-## Social
-[![Discord](https://img.shields.io/static/v1?label=&message=TeddyOwO%237969&?style=flat&logo=discord&color=black "Discord")](#) [![Facebook](https://img.shields.io/static/v1?label=&message=AlphaNecron&?style=flat&logo=facebook&color=black "Facebook")](#) [![Outlook](https://img.shields.io/static/v1?label=&message=teddyuwu@protonmail.com&?style=flat&logo=ProtonMail&color=white "ProtonMail")](#) [![Distro](https://img.shields.io/static/v1?label=&message=Arch%20Linux&?style=flat&logo=linux&color=black "Arch Linux")](#) [![Windows](https://img.shields.io/static/v1?label=&message=Windows%2010&?style=flat&logo=windows&color=informational "Windows 10")](#) [![Editor](https://img.shields.io/static/v1?label=&message=Text%20editor&?style=flat&logo=neovim&color=white "NeoVim")](#) [![Browser](https://img.shields.io/static/v1?label=&message=Browser&?style=flat&logo=brave&color=yellow "Brave")](#)
-## Coding languages
-[![CS](https://img.shields.io/static/v1?label=&message=C%23&?style=flat&logo=c%20sharp&color=blue "C#")](#) [![Python](https://img.shields.io/static/v1?label=&message=Python&?style=flat&logo=python&color=yellow "Python")](#) [![CPP](https://img.shields.io/static/v1?label=&message=C%2B%2B&?style=flat&logo=c%2B%2B&color=blue "C++")](#)
+## Social 🤝🏻
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white "Discord")](https://discord.com/users/534752817534074880)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white "Facebook")](#)
+
+## OS 💻
+[![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white "Arch Linux")](#)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white "Windows 10")](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white "Android")](#)
+
+## Essential tools 🛠
+[![Rider](https://img.shields.io/badge/JetBrains%20Rider-DD1265?style=flat-square&logo=JetBrains&logoColor=white "Rider")](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=PyCharm&logoColor=white "PyCharm")](#)
+[![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=NeoVim&logoColor=white "NeoVim")](#)
+[![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=microsoft%20edge&logoColor=white "Microsoft Edge")](#)
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox%20browser&logoColor=white "Mozilla Firefox")](#)
+
+## Skills 🚀
+[![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white "C#")](#)
+[![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white "Python")](#)
+[![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white ".NET")](#)
+[![JSON](https://img.shields.io/badge/Json-000000?style=flat-square&logo=json&logoColor=white "JSON")](#)

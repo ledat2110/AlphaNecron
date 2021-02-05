@@ -2,7 +2,8 @@
 I'm Nguyen Thanh Quang, a secondary school student in Vietnam.
 
 ***
-[![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&theme=tokyonight "GitHub stats")](#)
+[![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&theme=nord "GitHub stats")](#)  
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaNecron&theme=nord&layout=compact)](#)
 ***
 ## Social 🤝
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white "Discord")](https://discord.com/users/534752817534074880)
@@ -27,3 +28,8 @@ I'm Nguyen Thanh Quang, a secondary school student in Vietnam.
 [![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white ".NET")](https://dotnet.microsoft.com/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white "Bash")](https://www.gnu.org/software/bash/)
 [![JSON](https://img.shields.io/badge/Json-000000?style=flat-square&logo=json&logoColor=white "JSON")](https://www.json.org/)
+
+## Top projects:
+[![Wynntrans](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=Wynntrans&theme=nord)](https://github.com/AlphaNecron/Wynntrans)
+[![lightdm-gab-nord](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=lightdm-gab-nord&theme=nord)](https://github.com/AlphaNecron/lightdm-gab-nord)
+[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=bspwm-dotfiles&theme=nord)](https://github.com/AlphaNecron/bspwm-dotfiles)

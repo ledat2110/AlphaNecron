@@ -1,6 +1,9 @@
 ## Hi there 👋🏻
-I'm Nguyen Thanh Quang, a secondary school student in Vietnam.
-I'm 15 year-old, loves making useless tools/apps.
+Name: Nguyen Thanh Quang  
+Job: Secondary school student  
+Location: Vietnam  
+Age: 15  
+Hobby: Coding, making useless tools/apps.
 
 ***
 [![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&theme=nord "GitHub stats")](#)  

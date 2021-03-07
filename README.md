@@ -33,3 +33,4 @@ I'm Nguyen Thanh Quang, a secondary school student in Vietnam.
 [![Wynntrans](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=Wynntrans&theme=nord)](https://github.com/AlphaNecron/Wynntrans)
 [![lightdm-gab-nord](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=lightdm-gab-nord&theme=nord)](https://github.com/AlphaNecron/lightdm-gab-nord)
 [![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=bspwm-dotfiles&theme=nord)](https://github.com/AlphaNecron/bspwm-dotfiles)
+[![TitlebarZ](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=TitlebarZ&theme=nord)](https://github.com/AlphaNecron/TitlebarZ)

@@ -9,8 +9,8 @@ Hobby: Coding, gaming, making useless tools/apps.
 Dream: Becoming a good C# .NET developer.
 
 ***
-[![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&theme=nord "GitHub stats")](#)  
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaNecron&theme=nord&layout=compact)](#)
+[![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&theme=nord&count_private=true "GitHub stats")](#)  
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaNecron&theme=nord&layout=compact&hide=shell,python)](#)
 ***
 ## Social links 🤝
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/534752817534074880)

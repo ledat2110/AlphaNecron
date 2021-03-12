@@ -1,11 +1,11 @@
 # Hello there 👋
-***
+
 ## Basic info 📝
 Name: Nguyen Thanh Quang  
 Job: Secondary school student  
 Location: Vietnam  
 Age: 15  
-Hobby: Coding, making useless tools/apps.  
+Hobby: Coding, gaming, making useless tools/apps.  
 Dream: Becoming a good C# .NET developer.
 
 ***

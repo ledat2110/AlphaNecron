@@ -29,13 +29,14 @@ Dream: Becoming a good C# .NET developer.
 [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=Sublime%20Text&logoColor=white "Sublime Text")](https://www.sublimetext.com/)
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft%20edge&logoColor=white "Microsoft Edge")](https://www.microsoft.com/edge)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox%20browser&logoColor=white "Mozilla Firefox")](https://www.mozilla.org/firefox)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white "Visual Studio")](https://www.mozilla.org/firefox)
 
 ## Skills 🚀
 [![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "C#")](https://microsoft.com)
 [![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white ".NET")](https://dotnet.microsoft.com/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white "Bash")](https://www.gnu.org/software/bash/)
 
-## Highlighted projects 🌟:
+## Highlighted projects 🌟
 [![Wynntrans](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=Wynntrans&theme=nord)](https://github.com/AlphaNecron/Wynntrans)
 [![lightdm-gab-nord](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=lightdm-gab-nord&theme=nord)](https://github.com/AlphaNecron/lightdm-gab-nord)
 [![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=bspwm-dotfiles&theme=nord)](https://github.com/AlphaNecron/bspwm-dotfiles)

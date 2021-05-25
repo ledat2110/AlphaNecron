@@ -4,7 +4,7 @@
 Name: Nguyen Thanh Quang  
 Job: Secondary school student  
 Location: Vietnam  
-Age: 15  
+Age: 14  
 Hobby: Coding, gaming, making useless tools/apps.  
 Dream: Becoming a good C# .NET developer.
 

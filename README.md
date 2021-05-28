@@ -27,18 +27,17 @@ Dream: Becoming a good C# .NET developer.
 [![Xiaomi Redmi 9](https://img.shields.io/badge/Redmi_9-FA6709?style=for-the-badge&logo=xiaomi&logoColor=white "Redmi 9")](https://www.mi.com/)
 
 ## Softwares 🛠
-[![Rider](https://img.shields.io/badge/JetBrains_Rider-DD1265?style=for-the-badge&logo=JetBrains&logoColor=white "Rider")](https://www.jetbrains.com/rider/)
+[![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white "Rider")](https://www.jetbrains.com/rider/)
 [![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white "WebStorm")](https://www.jetbrains.com/webstorm/)
 [![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=NeoVim&logoColor=white "NeoVim")](https://neovim.io/)
 [![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=Sublime%20Text&logoColor=white "Sublime Text")](https://www.sublimetext.com/)
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft%20edge&logoColor=white "Microsoft Edge")](https://www.microsoft.com/edge)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox%20browser&logoColor=white "Mozilla Firefox")](https://www.mozilla.org/firefox)
-[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white "Visual Studio")](https://visualstudio.microsoft.com/vs)
 
 ## Skills 🚀
-[![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "C#")](https://microsoft.com)
-[![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white ".NET")](https://dotnet.microsoft.com/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white "Bash")](https://www.gnu.org/software/bash/)
+[![CSharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white "C#")](https://dotnet.microsoft.com)
+[![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white "XAML")](https://microsoft.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Highlighted projects 🌟
 [![Wynntrans](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=Wynntrans&theme=nord)](https://github.com/AlphaNecron/Wynntrans)

@@ -6,7 +6,7 @@ Job: Secondary school student
 Location: Vietnam  
 Age: 14  
 Hobby: Coding, gaming, making useless tools/apps.  
-Goal: Being a .NET developer.
+Goal: Becoming a .NET developer.
 
 ***
 [![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&theme=nord&count_private=true "GitHub stats")](#)  

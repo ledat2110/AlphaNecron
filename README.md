@@ -15,7 +15,7 @@ Goal: Being a .NET developer.
 ## Social links 🤝
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/534752817534074880)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "Facebook")](https://facebook.com/AlphaNecron)
-[![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=Home%20Assistant%20Community%20Store&logoColor=white "Homepage")](https://alphanecron.me)
+[![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=Home%20Assistant%20Community%20Store&logoColor=white "Homepage")](https://xwork.space)
 
 ## Operating systems 💻
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white "Arch Linux")](https://archlinux.org/)

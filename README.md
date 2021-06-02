@@ -20,7 +20,7 @@ Goal: Becoming a .NET developer.
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "Facebook")](https://facebook.com/AlphaNecron)
 [![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=page&logoColor=white "Homepage")](https://xwork.space)
 
-## Environment 💻
+## Environments 💻
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white "Arch Linux")](https://archlinux.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows 10")](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android")](https://www.android.com/)

@@ -20,16 +20,10 @@ Goal: Becoming a .NET developer.
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "Facebook")](https://facebook.com/AlphaNecron)
 [![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=page&logoColor=white "Homepage")](https://xwork.space)
 
-## Operating systems 💻
+## Environment 💻
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white "Arch Linux")](https://archlinux.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows 10")](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android")](https://www.android.com/)
-
-## Devices 📱
-[![Acer Aspire F5 571](https://img.shields.io/badge/Aspire_F5_571-83B81A?style=for-the-badge&logo=arch-linux&logoColor=white "Aspire F5 571")](https://www.acer.com/)
-[![Xiaomi Redmi 9](https://img.shields.io/badge/Redmi_9-FA6709?style=for-the-badge&logo=xiaomi&logoColor=white "Redmi 9")](https://www.mi.com/)
-
-## Softwares 🛠
 [![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white "Rider")](https://www.jetbrains.com/rider/)
 [![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white "WebStorm")](https://www.jetbrains.com/webstorm/)
 [![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=NeoVim&logoColor=white "NeoVim")](https://neovim.io/)
@@ -37,7 +31,11 @@ Goal: Becoming a .NET developer.
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft%20edge&logoColor=white "Microsoft Edge")](https://www.microsoft.com/edge)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox%20browser&logoColor=white "Mozilla Firefox")](https://www.mozilla.org/firefox)
 
-## Skills 🚀
+## Devices 📱
+[![Acer Aspire F5 571](https://img.shields.io/badge/Aspire_F5_571-83B81A?style=for-the-badge&logo=arch-linux&logoColor=white "Aspire F5 571")](https://www.acer.com/)
+[![Xiaomi Redmi 9](https://img.shields.io/badge/Redmi_9-FA6709?style=for-the-badge&logo=xiaomi&logoColor=white "Redmi 9")](https://www.mi.com/)
+
+## Knowledge 🚀
 [![CSharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white "C#")](https://dotnet.microsoft.com)
 [![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white "XAML")](https://microsoft.com)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

@@ -7,13 +7,13 @@ Hobby: Coding, gaming and making useless tools & apps.
 Goal: Becoming a .NET developer.
 
 ## Stats 📈
-[![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&theme=dracula&count_private=true "GitHub stats")](#)  
+[![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&theme=nord&count_private=true "GitHub stats")](#)  
 
 ## Most used languages 🌐
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaNecron&theme=dracula&layout=compact&hide=shell,python)](#)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaNecron&theme=nord&layout=compact&hide=shell,python)](#)
 
 ## Trophies 🏆
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AlphaNecron&theme=dracula)](#)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=AlphaNecron&theme=nord)](#)
 
 ## Social links 🤝
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/534752817534074880)
@@ -41,7 +41,7 @@ Goal: Becoming a .NET developer.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Highlighted projects 🌟
-[![Wynntrans](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=Wynntrans&theme=dracula)](https://github.com/AlphaNecron/Wynntrans)
-[![lightdm-gab-nord](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=lightdm-gab-nord&theme=dracula)](https://github.com/AlphaNecron/lightdm-gab-nord)
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=bspwm-dotfiles&theme=dracula)](https://github.com/AlphaNecron/bspwm-dotfiles)
-[![TitlebarZ](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=TitlebarZ&theme=dracula)](https://github.com/AlphaNecron/TitlebarZ)
+[![Wynntrans](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=Wynntrans&theme=nord)](https://github.com/AlphaNecron/Wynntrans)
+[![lightdm-gab-nord](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=lightdm-gab-nord&theme=nord)](https://github.com/AlphaNecron/lightdm-gab-nord)
+[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=bspwm-dotfiles&theme=nord)](https://github.com/AlphaNecron/bspwm-dotfiles)
+[![TitlebarZ](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=TitlebarZ&theme=nord)](https://github.com/AlphaNecron/TitlebarZ)

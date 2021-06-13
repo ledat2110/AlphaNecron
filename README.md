@@ -4,16 +4,19 @@ Occupation: Secondary school student
 Location: Ha Tinh, Vietnam  
 Age: 14  
 Hobby: Coding, gaming and making useless tools & apps.  
-Goal: Becoming a .NET developer.
+Email: [admin@xwork.space](mailto:admin@xwork.space)
 
 ## Stats 📈
-[![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&theme=nord&count_private=true "GitHub stats")](#)  
+[![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&theme=discord_old_blurple&count_private=true "GitHub stats")](#)  
+
+## Wakatime 🕒
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=AlphaNecron&theme=discord_old_blurple)](#)
 
 ## Most used languages 🌐
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaNecron&theme=nord&layout=compact&hide=shell,python)](#)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaNecron&theme=discord_old_blurple&layout=compact&hide=shell,python)](#)
 
 ## Trophies 🏆
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AlphaNecron&theme=nord)](#)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=AlphaNecron&theme=discord_old_blurple)](#)
 
 ## Social links 🤝
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/534752817534074880)
@@ -35,13 +38,13 @@ Goal: Becoming a .NET developer.
 [![Acer Aspire F5 571](https://img.shields.io/badge/Aspire_F5_571-83B81A?style=for-the-badge&logo=arch-linux&logoColor=white "Aspire F5 571")](https://www.acer.com/)
 [![Xiaomi Redmi 9](https://img.shields.io/badge/Redmi_9-FA6709?style=for-the-badge&logo=xiaomi&logoColor=white "Redmi 9")](https://www.mi.com/)
 
-## Knowledge 🚀
+## Skills 🚀
 [![CSharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white "C#")](https://dotnet.microsoft.com)
 [![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white "XAML")](https://microsoft.com)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## Highlighted projects 🌟
-[![Wynntrans](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=Wynntrans&theme=nord)](https://github.com/AlphaNecron/Wynntrans)
-[![lightdm-gab-nord](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=lightdm-gab-nord&theme=nord)](https://github.com/AlphaNecron/lightdm-gab-nord)
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=bspwm-dotfiles&theme=nord)](https://github.com/AlphaNecron/bspwm-dotfiles)
-[![TitlebarZ](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=TitlebarZ&theme=nord)](https://github.com/AlphaNecron/TitlebarZ)
+## Featured repositories 🌟
+[![Wynntrans](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=Wynntrans&theme=discord_old_blurple)](https://github.com/AlphaNecron/Wynntrans)
+[![lightdm-gab-nord](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=lightdm-gab-nord&theme=discord_old_blurple)](https://github.com/AlphaNecron/lightdm-gab-nord)
+[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=bspwm-dotfiles&theme=discord_old_blurple)](https://github.com/AlphaNecron/bspwm-dotfiles)
+[![TitlebarZ](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=TitlebarZ&theme=discord_old_blurple)](https://github.com/AlphaNecron/TitlebarZ)

@@ -47,7 +47,7 @@ Email: [admin@xwork.space](mailto:admin@xwork.space)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Featured repositories 🌟
-[![Wynntrans](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=Wynntrans&theme=discord_old_blurple)](https://github.com/AlphaNecron/Wynntrans)
-[![lightdm-gab-nord](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=lightdm-gab-nord&theme=discord_old_blurple)](https://github.com/AlphaNecron/lightdm-gab-nord)
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=bspwm-dotfiles&theme=discord_old_blurple)](https://github.com/AlphaNecron/bspwm-dotfiles)
-[![TitlebarZ](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=TitlebarZ&theme=discord_old_blurple)](https://github.com/AlphaNecron/TitlebarZ)
+[![Wynntrans](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=Wynntrans&hide_border=true&theme=discord_old_blurple)](https://github.com/AlphaNecron/Wynntrans)
+[![lightdm-gab-nord](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=lightdm-gab-nord&hide_border=true&theme=discord_old_blurple)](https://github.com/AlphaNecron/lightdm-gab-nord)
+[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=bspwm-dotfiles&hide_border=true&theme=discord_old_blurple)](https://github.com/AlphaNecron/bspwm-dotfiles)
+[![TitlebarZ](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=TitlebarZ&hide_border=true&theme=discord_old_blurple)](https://github.com/AlphaNecron/TitlebarZ)

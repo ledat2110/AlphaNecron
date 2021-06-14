@@ -7,19 +7,19 @@ Hobby: Coding, gaming and making useless tools & apps.
 Email: [admin@xwork.space](mailto:admin@xwork.space)
 
 ## Stats 📈
-[![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&theme=discord_old_blurple&count_private=true "GitHub stats")](#)  
+[![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&hide_border=true&theme=discord_old_blurple&count_private=true "GitHub stats")](#)  
 
 ## Streak 🔥
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlphaNecron&background=2C2F33&ring=5865F2&fire=ED4245&dates=FEE75C&currStreakLabel=ED4245&sideNums=5865F2&currStreakNum=57F287&sideLabels=FFFFFF&stroke=FFFFFF)](#)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlphaNecron&hide_border=true&background=2C2F33&ring=5865F2&fire=ED4245&dates=FEE75C&currStreakLabel=ED4245&sideNums=5865F2&currStreakNum=57F287&sideLabels=FFFFFF&stroke=FFFFFF)](#)
 
 ## Wakatime 🕒
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=AlphaNecron&theme=discord_old_blurple)](#)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=AlphaNecron&hide_border=true&theme=discord_old_blurple)](#)
 
 ## Most used languages 🌐
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaNecron&theme=discord_old_blurple&layout=compact&hide=shell,python)](#)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaNecron&theme=discord_old_blurple&hide_border=true&layout=compact&hide=shell,python)](#)
 
 ## Trophies 🏆
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AlphaNecron&theme=darkhub)](#)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=AlphaNecron&margin-w=10&theme=juicyfresh&no-frame=true)](#)
 
 ## Links 🔗
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/534752817534074880)

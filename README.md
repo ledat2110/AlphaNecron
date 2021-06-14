@@ -10,7 +10,7 @@ Email: [admin@xwork.space](mailto:admin@xwork.space)
 [![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&hide_border=true&theme=discord_old_blurple&count_private=true "GitHub stats")](#)  
 
 ## Streak 🔥
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlphaNecron&hide_border=true&background=2C2F33&ring=5865F2&fire=ED4245&dates=FEE75C&currStreakLabel=ED4245&sideNums=5865F2&currStreakNum=57F287&sideLabels=FFFFFF&stroke=FFFFFF)](#)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlphaNecron&hide_border=true&background=23272A&ring=5865F2&fire=ED4245&dates=FEE75C&currStreakLabel=ED4245&sideNums=5865F2&currStreakNum=57F287&sideLabels=FFFFFF&stroke=FFFFFF)](#)
 
 ## Wakatime 🕒
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=AlphaNecron&hide_border=true&theme=discord_old_blurple)](#)

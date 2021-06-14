@@ -18,7 +18,7 @@ Email: [admin@xwork.space](mailto:admin@xwork.space)
 ## Trophies 🏆
 [![Trophies](https://github-profile-trophy.vercel.app/?username=AlphaNecron&theme=darkhub)](#)
 
-## Social links 🤝
+## Links 🔗
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/534752817534074880)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "Facebook")](https://facebook.com/AlphaNecron)
 [![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=page&logoColor=white "Homepage")](https://xwork.space)

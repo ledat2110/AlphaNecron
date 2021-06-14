@@ -9,6 +9,9 @@ Email: [admin@xwork.space](mailto:admin@xwork.space)
 ## Stats 📈
 [![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&theme=discord_old_blurple&count_private=true "GitHub stats")](#)  
 
+## Streak 🔥
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlphaNecron&theme=react)](#)
+
 ## Wakatime 🕒
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=AlphaNecron&theme=discord_old_blurple)](#)
 

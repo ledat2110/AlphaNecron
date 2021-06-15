@@ -2,7 +2,7 @@
 Name: Nguyen Thanh Quang  
 Occupation: Secondary school student  
 Location: Ha Tinh, Vietnam  
-Age: 14  
+Age: 15  
 Hobby: Coding, gaming and making useless tools & apps.  
 Email: [admin@xwork.space](mailto:admin@xwork.space)
 

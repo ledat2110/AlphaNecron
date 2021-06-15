@@ -1,3 +1,5 @@
+[![VC](https://shields-io-visitor-counter.herokuapp.com/badge?page=AlphaNecron.AlphaNecron&label=VISITIORS&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)](#)
+
 ## Basic info 📝
 Name: Nguyen Thanh Quang  
 Occupation: Secondary school student  

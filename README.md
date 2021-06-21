@@ -51,5 +51,5 @@ Email: [admin@xwork.space](mailto:admin@xwork.space)
 ## Featured repositories 🌟
 [![Wynntrans](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=Wynntrans&hide_border=true&theme=discord_old_blurple)](https://github.com/AlphaNecron/Wynntrans)
 [![lightdm-gab-nord](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=lightdm-gab-nord&hide_border=true&theme=discord_old_blurple)](https://github.com/AlphaNecron/lightdm-gab-nord)
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=bspwm-dotfiles&hide_border=true&theme=discord_old_blurple)](https://github.com/AlphaNecron/bspwm-dotfiles)
+[![Kutt.NET](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=KUTT.NET&hide_border=true&theme=discord_old_blurple)](https://github.com/AlphaNecron/Kutt.NET)
 [![TitlebarZ](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=TitlebarZ&hide_border=true&theme=discord_old_blurple)](https://github.com/AlphaNecron/TitlebarZ)

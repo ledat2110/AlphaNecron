@@ -47,6 +47,8 @@ Email: [admin@xwork.space](mailto:admin@xwork.space)
 [![CSharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white "C#")](https://dotnet.microsoft.com)
 [![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white "XAML")](https://microsoft.com)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white "NodeJS")](https://nodejs.org)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white "Git")](https://git-scm.com)
 
 ## Featured repositories 🌟
 [![Wynntrans](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=Wynntrans&hide_border=true&theme=discord_old_blurple)](https://github.com/AlphaNecron/Wynntrans)
